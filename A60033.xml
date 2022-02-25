@@ -1,0 +1,155 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Short account of French cruelties in a letter from Heidelburgh, June 17 1689.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60033</idno>
+            <idno type="STC">Wing S3535B</idno>
+            <idno type="STC">ESTC R184145</idno>
+            <idno type="EEBO-CITATION">09109230</idno>
+            <idno type="OCLC">ocm 09109230</idno>
+            <idno type="VID">42456</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A60033)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 42456)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1295:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Short account of French cruelties in a letter from Heidelburgh, June 17 1689.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and are to be sold by Randal Taylor,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Grand Alliance, War of the, 1689-1697.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:42456:1"/>
+            <!-- PDF PAGE 40 -->
+            <pb n="1" facs="tcp:42456:1"/>
+            <!-- PDF PAGE 40 -->
+            <head>A SHORT ACCOUNT OF <hi>French Cruelties:</hi> In a Letter from Heidelburgh, <date>
+                  <hi>June</hi> 17. 1689.</date>
+            </head>
+            <argument>
+               <p>
+                  <hi>Licenſed,</hi> 
+                  <date>July the 1ſt. 1689.</date>
+               </p>
+            </argument>
+            <p>THey that Arrive here with the hazard of their Lives, coming from the Cities laid in Aſhes by the <hi>French</hi> in the <hi>Palatinate,</hi> (for no Body is allowed the Liberty to paſs the <hi>Rhine,</hi> to<g ref="char:EOLhyphen"/>wards the Empire) want Tongues to give an Account of the Confuſion and Deſolations in thoſe Parts, not to be parallelled by any Example of paſs'd Ages. Great Numbers of People are ra<g ref="char:EOLhyphen"/>viſh'd from their Habitations and their Country; whom they chain together two and two, to tranſplant them into <hi>France;</hi> where they are to be diſpoſed of in the utmoſt Confines of that Kingdom toward the <hi>Pyrenaeans;</hi> like another Captivity of <hi>Babylon,</hi> where the Woods and Mountains Eccho nothing but the moans and ſad Lamentations of of the Women, and Innocent Children. Great Numbers of them ſtrew the Path High-ways with their dead Carkaſſes; of which the greateſt Part not long ſince, Lived at Eaſe, and in full Plenty. Some therefore that through deſpair, lay Violent Hands upon themſelves;
+<pb n="2" facs="tcp:42456:2"/>
+               <!-- PDF PAGE 41 -->and others ſuffer themſelves to be overwhelmed with Grief, as having before their Eyes the lively repreſentation of what they are ſtill to ſuffer; and beg of their <hi>Hangmen</hi> as well as their <hi>T<gap reason="illegible: damage" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rants,</hi> in pity and commiſeration, to Eaſe them of their miſerable Lives; either by the points of their Swords, or the kindneſs of a Muſquet-Bullet. And that which deſerves to be ſeriouſly conſidered is this, that in the midſt of this unheard of Barbariſm, the number of the wicked Executioners of the cruel Commands of Sovereign Tyranny is very ſmall; there being hardly a Souldier, notwithſtanding the little Eſteem or Know<g ref="char:EOLhyphen"/>ledge they have of what belongs to Honour, that will defile his Hands in thoſe diſmal Executions. Inſomuch, that the City of <hi>wormes</hi> had not ſo ſoon run the hazard of being utterly Ruin'd, if that infamous Officer (of whom they report a moſt Execrable piece of Impiety; that he ſhould ſay, <hi>That if the King of</hi> France <hi>his Master, ſhould Command him to burn G— in Heaven, he would do it, if it lay in his power</hi>) had not arrived with his band of Incendiaries to Fire that Imperial City: The <hi>French</hi> Peaſants are come with a great Number of Carts and Waggons to carry away the Spoils of that City; and whatever they cannot carry away, that they deſtroy and reduce to nothing; ſo that the poor Inhabitants have no<g ref="char:EOLhyphen"/>thing left them but their miſerable Lives. Theſe <hi>French</hi> Firebrands, have reduced to Aſhes in the Imperial City of <hi>Spire,</hi> One and Twenty <hi>Catholick</hi> Churches, where they daily offered the Body of Jeſus Chriſt to the Eternal Father; and Seven Cloyſters belonging as well to the One, as to the other Sex. And in <hi>Worms,</hi> theſe impious and outragi<g ref="char:EOLhyphen"/>ous Caitiffs have deſtroyed no leſs than Eighteen Churches of the ſame Religion, and ſeveral Convents; and thus they have Profan'd what<g ref="char:EOLhyphen"/>ever is accounted moſt Sacred by their own Religion. In the moſt Places, they have not ſcrupled to Exerciſe their Blaſphemous Rage upon the Figures and Statues of the Crucified God, to the great Scan<g ref="char:EOLhyphen"/>dal even of thoſe of the contrary Religion, and amazing Terrour of the Catholicks; and by a particular Prophanation, they melted the Bells, tho' Bleſſed and Chriſtened, to make Cannon; according to the uſual pra<g ref="char:EOLhyphen"/>ctice of <hi>Turks</hi> and <hi>Inſidels.</hi> The Nuns and Conſecrated Virgins could not eſcape their being Deflour'd. All the Religious Orders have felt the Violences of their Fury, being conſtrained to quit their Con<g ref="char:EOLhyphen"/>vents, and to retire where they could, by Vertue of Letters of Obedi<g ref="char:EOLhyphen"/>ence, with which the <hi>French</hi> Prieſts furniſhed them. All the World is perſwaded that theſe unheard of Outrages will at length conſtrain our Holy Father the <hi>Pope,</hi> to put the <hi>French</hi> King out of the Pale of the Church,
+<pb n="3" facs="tcp:42456:2"/>
+               <!-- PDF PAGE 41 -->to take from him the Title of <hi>Moſt Chriſtian,</hi> and to diſcharge all his Subjects of the Oath of Allegiance, which they owe him; which in all probability would ſoon occaſion a total Revolt of <hi>France;</hi> in regard theſe horrible Outrages make ſuch an Impreſſion upon the <hi>French,</hi> whoſe Hearts as yet are not altogether hardened, like that of <hi>Pharaoh;</hi> that both Souldiers and Officers Diſſert the Service in Troops on every ſide; Proteſting that whole Battalions and Squadrons will render themſelves ſo ſoon as the <hi>German</hi> Armies ſhall have paſſed the <hi>Rhine.</hi> The <hi>French</hi> alleadge, for the only reaſon of their deſtroying ſo many fertile Countries, laden with plentiful Harveſts, that it is to hinder the March of the ſaid Ar<g ref="char:EOLhyphen"/>mies, and to deprive them of all manner of Subſiſtance, which they have executed with ſo much Exactneſs, that there is nothing left for the People to live upon; ſo that the <hi>French</hi> Troops begin to feel the Want themſelves which they have occaſioned others to ſuffer; in ſo much, that they can never ſubſiſt upon the Banks of the <hi>Rhine,</hi> unleſs they ſend for Proviſions from their own far diſtant Magazines: And then for their tearing ſo many innocent People from their Native Ha<g ref="char:EOLhyphen"/>bitations, to carry them Captive into <hi>France,</hi> They think they give a very good Reaſon, in ſaying, That they carry away thoſe People to terrifie the <hi>Germans,</hi> by Threats of uſing them after the ſame manner as they would do the <hi>French,</hi> if once they ſhould reduce them under their Obedience. And laſtly, That they deſtroy the Ci<g ref="char:EOLhyphen"/>ties, Towns and Villages, to the end, they may find the leſs Reſi<g ref="char:EOLhyphen"/>ſtance, if afterwards, upon the Retreat of the <hi>Germans,</hi> they ſhould think fit to return toward the <hi>Rhine.</hi> This dreadful Deſolation of the <hi>Palatinate,</hi> has made a ſtrong Impreſſion in the Hearts of the Inhabi<g ref="char:EOLhyphen"/>tants of <hi>Alſatia, Burgundy, Lorain, Montbeillard, Deuxponts,</hi> and other Neighbouring Parts, not only becauſe they are Apprehenſive of the ſame Deſtruction, but becauſe they ſee the Country already laid bare of its Fruits, which they have carryed already into their Magazines: Before the Doors of which, the poor Country People are daily to be ſeen with their Famiſh'd Children, begging for a ſmall Pittance of their own Corn, to ſupport their languiſhing Lives.</p>
+            <p>To theſe Fatal Conſequences of the War, they add, That the Let<g ref="char:EOLhyphen"/>ters juſt now arrived from <hi>Sturgard,</hi> inform them, That <hi>Strasburgh; Schleſtadt, Hagenau, Landau,</hi> and other Cities, are ſuddenly like to un<g ref="char:EOLhyphen"/>dergoe the ſame Fate as <hi>Wormes, Spire,</hi> and <hi>Oppentreimes.</hi> His High<g ref="char:EOLhyphen"/>neſs, the Elector of <hi>Bavaria,</hi> was conſtrain'd to behold from his Camp, the City of <hi>Spire</hi> reduced to Aſhes, not a little troubl'd that the <hi>Rhine</hi>
+               <pb n="4" facs="tcp:42456:3"/>
+               <!-- PDF PAGE 42 -->
+hinder'd him From attempting it's Relief: And now he wiſhes he could but approach the Enemy, to gratify his Deſire of Revenge. He is Fortifying <hi>Stolhove,</hi> and his Electoral Highneſs has invited all the Neighbouring States to concur with him to the utmoſt of their Power, to perfect the Work: The <hi>French</hi> having a Deſign to hin<g ref="char:EOLhyphen"/>der him, have croſs'd the <hi>Rhine</hi> with Eight Thouſand Men at <hi>Fort Lewis.</hi> But the Prince of <hi>Savoy</hi> is marched with a Conſiderable De<g ref="char:EOLhyphen"/>tachment to drive them back again; of which we expect the Succeſs.</p>
+            <div type="part">
+               <opener>
+                  <dateline>From the <hi>Camp</hi> of the <hi>Allies</hi> before <hi>Keyſerwaert,</hi> 
+                     <date>June, 26. 1689.</date>
+                  </dateline>
+               </opener>
+               <p>HIS Electoral Highneſs of <hi>Brandenburgh</hi> being arriv'd before this Town, they redoubl'd their On-ſets in ſuch a manner, that the <hi>Sieur de la Marloniere,</hi> found himſelf conſtrain'd in leſs than three days to capitulate: He has ſurrendred this Place to the Allies, and is gone out with the <hi>French</hi> that were there in Garriſon, with only Wands in their Hands. But the Souldiers of other Nations have taken Arms again among the Allies.</p>
+               <p>☞ There is this Day Publiſhed an Account of what the Subduing of the <hi>Rebellion of Ireland,</hi> begun the 23<hi>d.</hi> of <hi>October,</hi> 1641. hath Coſt; and what Damage the <hi> Proteſtants</hi> there have ſuſtained thereby, and what Lands have been Forfeited and Diſpoſed of to Adventurers, Souldiers, and other <hi>Engliſh,</hi> and what to the <hi>Iriſh:</hi> Abſtracted out of the Accounts of Moneys in the <hi>Exchequer,</hi> during ſuch time as any regular Accounts were made up, and by probable and rational Eſtimates, for the time in which no Ac<g ref="char:EOLhyphen"/>counts were kept, by reaſon of the General Rebellion and Confuſion, and out of the Surveys, Decrees and Settlements, made by His Majeſties Com<g ref="char:EOLhyphen"/>miſſioners, for Executing the <hi>Acts of Settlement</hi> and<hi>Explanation</hi> in <hi>Ireland.</hi>
+               </p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON</hi> Printed, and are to be Sold by <hi>Randal Taylor</hi> near <hi>Sta<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ioners-Hill,</hi> 1689.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
